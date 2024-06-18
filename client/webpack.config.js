@@ -35,7 +35,7 @@ module.exports = () => {
         inject: true,
         name: 'Text Editor',
         short_name: 'Editor',
-        description: 'To Do Lists',
+        description: 'Teext Editor App',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
