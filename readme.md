@@ -18,5 +18,5 @@
 <img src="./client/src/images/jate_editor_screenshot.png" alt="JATE editor Screenshot" width="400"/>
 
 ## Working Example
-[View the website here](https://gcsdesign-blog-43fec2242915.herokuapp.com/)
+[View the app here](https://gcs-pwa-jate-ce0fb1c34c89.herokuapp.com/)
 
